@@ -1,0 +1,27 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtKonX/ajs-homeworks-workspace-eslint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ArtKonX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtKonX/ajs-homeworks-workspace-eslint/issues"
+  },
+  "homepage": "https://github.com/ArtKonX/ajs-homeworks-workspace-eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "globals": "^15.3.0"
+  }
+}
